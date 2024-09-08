@@ -23,7 +23,7 @@ export default [
   {
     rules: {
       // 'no-console': 'error',
-      'quotes': ['error','single'],
+      // 'quotes': ['error','single'],
     }
   },
   pluginJs.configs.recommended,
